@@ -1,1 +1,0 @@
-# rupinr.github.io
