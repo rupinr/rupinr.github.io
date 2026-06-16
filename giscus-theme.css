@@ -9,6 +9,8 @@
     --color-fg-subtle: oklch(0.660 0.190 200);
     --color-accent-fg: oklch(0.780 0.165 55);
     --color-accent-emphasis: oklch(0.700 0.180 55);
+    --color-accent-muted: oklch(0.700 0.180 55 / 40%);
+    --color-accent-subtle: oklch(0.700 0.180 55 / 15%);
     --color-btn-text: oklch(0.951 0.022 196);
     --color-btn-bg: oklch(0.360 0.075 207);
     --color-btn-border: oklch(0.430 0.115 205);
@@ -21,4 +23,6 @@
     --color-btn-primary-hover-border: oklch(0.580 0.180 201);
     --color-neutral-muted: oklch(0.360 0.075 207 / 40%);
     --color-reactions-btn-hover-bg: oklch(0.360 0.075 207);
+    --color-social-reaction-bg-hover: oklch(0.360 0.075 207);
+    --color-social-reaction-bg-reacted-hover: oklch(0.500 0.155 203);
 }
